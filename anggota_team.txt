@@ -1,0 +1,11 @@
+Judul/Tema :
+Deteksi Jenis Kelamin dan Umur (Detection Gender And Age)
+
+Nama Anggota Kelompok :
+1.Fitri Ayuning (21916088)
+2.Aisyah Lestarinda (21916060)
+
+Kesusahan pada saat mengerjakan yaitu :
+1.Saat import modul/library cv
+2.Tidak ditemukan attribut nya
+3.File codingannya juga kadang error dan kadang tidak bisa di jalankan
